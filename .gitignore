@@ -9,8 +9,16 @@ build/
 .eggs/
 *.egg
 
-# Environment variables
+# Environment variables and secrets
 .env
+*.env
+.env.*
+!.env.example
+
+# Virtual Environment
+venv/
+env/
+ENV/
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -21,7 +29,12 @@ build/
 # IDE files
 .idea/
 
+# Project specific
+saved_state/
+vector_store/
+
 # Other
 *.log
 *.sqlite3
 *.db
+.DS_Store
