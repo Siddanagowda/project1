@@ -72,3 +72,16 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- **Libraries Used**:
+  - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/): For parsing HTML and extracting data from web pages.
+  - [Requests](https://docs.python-requests.org/en/master/): For making HTTP requests to fetch web content.
+  - [Streamlit](https://streamlit.io/): For building the interactive web interface.
+  - [Google Generative AI](https://cloud.google.com/generative-ai): For generating contextual responses based on user queries.
+  - [Scikit-learn](https://scikit-learn.org/stable/): For implementing machine learning algorithms, including TF-IDF vectorization.
+
+- **Inspiration**: This project was inspired by the need for a more interactive way to access and query news articles in real-time.
+
+- **Contributors**: Thank you to everyone who contributed to this project, whether through code, feedback, or support.
